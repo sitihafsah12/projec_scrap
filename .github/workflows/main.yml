@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  marketcap-lambeturah:
+  lambeturah-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
@@ -22,5 +22,6 @@ jobs:
         install.packages("rvest", dependencies = TRUE)
         install.packages("tidyverse", dependencies = TRUE)
         install.packages("mongolite")
-    - name: Scrape Data
+      shell: Rscript {0} 
+    - name: Scrape Data scrap_lambeturah
       run: Rscript scrap_lambeturah.R
