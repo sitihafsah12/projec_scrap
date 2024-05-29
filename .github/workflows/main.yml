@@ -22,6 +22,5 @@ jobs:
         install.packages("rvest", dependencies = TRUE)
         install.packages("tidyverse", dependencies = TRUE)
         install.packages("mongolite")
-      shell: Rscript {0} 
-    - name: Scrape Data scrap_lambeturah
+    - name: Scrape Data
       run: Rscript scrap_lambeturah.R
