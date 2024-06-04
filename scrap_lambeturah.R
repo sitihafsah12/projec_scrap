@@ -4,7 +4,7 @@ library(tidyverse)
 library(mongolite)
 
 message('Scraping Data')
-url <- "https://lambeturah.co.id"
+url <- ""https://lambeturah.co.id/posts""
 page <- read_html(url)
 
 titles <- page %>% html_nodes(xpath = '//h3[@class="title"]/a') %>% html_text()
@@ -13,9 +13,9 @@ links <- page %>% html_nodes(xpath = '//h3[@class="title"]/a') %>% html_attr("hr
 
 data <- data.frame(
   time_scraped = Sys.time(),
-  titles = head(titles, 5),
-  dates = head(dates, 5),
-  links = head(links, 5),
+  titles = head(titles, 12),
+  dates = head(dates, 12),
+  links = head(links, 12),
   stringsAsFactors = FALSE
 )
 
