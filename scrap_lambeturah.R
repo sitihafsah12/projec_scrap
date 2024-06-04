@@ -4,7 +4,7 @@ library(tidyverse)
 library(mongolite)
 
 message('Scraping Data')
-url <- ""https://lambeturah.co.id/posts""
+url <- "https://lambeturah.co.id/posts"
 page <- read_html(url)
 
 titles <- page %>% html_nodes(xpath = '//h3[@class="title"]/a') %>% html_text()
