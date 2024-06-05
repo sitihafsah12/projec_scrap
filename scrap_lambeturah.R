@@ -13,19 +13,33 @@ links <- page %>% html_nodes(xpath = '//h3[@class="title"]/a') %>% html_attr("hr
 
 data <- data.frame(
   time_scraped = Sys.time(),
-  titles = head(titles, ),
-  dates = head(dates, ),
-  links = head(links, ),
+  titles = titles,
+  dates = dates,
+  links = links,
   stringsAsFactors = FALSE
 )
 
 # MONGODB
-message('Input Data to MongoDB Atlas')
+message('Connecting to MongoDB Atlas')
 atlas_conn <- mongo(
   collection = Sys.getenv("ATLAS_COLLECTION"),
   db         = Sys.getenv("ATLAS_DB"),
   url        = Sys.getenv("ATLAS_URL")
 )
 
-atlas_conn$insert(data)
+message('Checking Existing Data in MongoDB Atlas')
+existing_data <- atlas_conn$find(fields = '{"links": 1, "_id": 0}')
+
+message('Filtering New Data')
+new_data <- data %>%
+  filter(!links %in% existing_data$links)
+
+message('Inserting New Data into MongoDB Atlas')
+if (nrow(new_data) > 0) {
+  atlas_conn$insert(new_data)
+  message('New data inserted.')
+} else {
+  message('No new data to insert.')
+}
+
 rm(atlas_conn)
