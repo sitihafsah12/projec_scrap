@@ -88,7 +88,7 @@
 
 <p align="center" width="80%">
   <a href="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
-    <img width="700" height="400" src="https://www.nesabamedia.com/wp-content/uploads/2022/02/Portal-Berita-Viva.png">
+    <img width="700" height="400" src="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
   </a>
 </p>
 
