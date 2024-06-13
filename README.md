@@ -1,5 +1,5 @@
 
-  <h1><strong>Tren lambe turah juni 2024: Scraping Berita dari Sumber Terpercaya </strong></h1>
+  <h1><strong>Tren Lambe Turah Juni 2024: Scraping Berita dari Sumber Terpercaya </strong></h1>
   <p align="center" width="80%">
     <img width="60%" src="https://lambeturah.co.id/uploads/logo/logo_62766a7443026.png">
 </p>
