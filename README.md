@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![scrape_MDS](https://github.com/sitihafsah12/project_scrap/actions/workflows/main.yml/badge.svg)](https://github.com/sitihafsah12/project_scrap/actions/workflows/main.yml)
+[![scrape_lambeturah](https://github.com/sitihafsah12/projec_scrap/actions/workflows/main.yml/badge.svg)](https://github.com/sitihafsah12/projec_scrap/actions/workflows/main.yml)
 
 <p align="center">
     
