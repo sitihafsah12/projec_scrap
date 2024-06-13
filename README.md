@@ -81,13 +81,13 @@
 
 <p align="center">
   <img width="220" height="150" src="https://lambeturah.co.id/uploads/images/2024/06/image_380x226_666a487b73d86.jpg">
-  <img width="220" height="150" src="file:///C:/Users/LENOVO/Downloads/8a0dd0da-3f86-4918-a0f1-a325a30df34c.webp">
+  <img width="220" height="150" src="https://lambeturah.co.id/uploads/images/2024/06/image_380x226_666a43f027b1e.jpg">
   </p>
 
 ## :film_projector: Deskripsi Project
 
 <p align="center" width="80%">
-  <a href="https://www.nesabamedia.com/wp-content/uploads/2022/02/Portal-Berita-Viva.png">
+  <a href="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
     <img width="700" height="400" src="https://www.nesabamedia.com/wp-content/uploads/2022/02/Portal-Berita-Viva.png">
   </a>
 </p>
