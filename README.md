@@ -87,7 +87,7 @@
 ## :film_projector: Deskripsi Project
 
 <p align="center" width="80%">
-  <a href="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
+  <a href="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=150">
     <img width="700" height="400" src="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
   </a>
 </p>
@@ -142,4 +142,4 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 + [Lambe Turah Juni 2024](https://rpubs.com/sitihafsah12/projec_scrap)
 
 ## :hotspring: Pengembang
-+ [Uswatun Hasanah](https://github.com/sitihafsah12/) (G1501231060)
++ [Siti Hafsah](https://github.com/sitihafsah12/) (G1501231060)
