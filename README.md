@@ -86,9 +86,9 @@
 
 ## :film_projector: Deskripsi Project
 
-<p align="center" width="80%">
+<p align="center" width="60%">
   <a href="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
-    <img width="400" height="400" src="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
+    <img width="300" src="https://tse3.mm.bing.net/th?id=OIP.muAnRu88JP8vmVgthI6F8gHaHa&pid=Api&P=0&h=180">
   </a>
 </p>
 
