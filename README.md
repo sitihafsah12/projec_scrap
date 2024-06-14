@@ -112,6 +112,8 @@ Data yang diambil pada proyek scraping meliputi beberapa poin kunci berikut:
 
 📰 titles: Judul berita yang memberikan gambaran singkat tentang isi artikel. Judul ini biasanya dirancang untuk menarik perhatian pembaca dan menyampaikan poin utama dari berita tersebut.
 
+💬 Kategori: Kategori dari artikel berita seperti Hot News, Seleb, Video, Viral, Musik, dan Sosial.
+
 📅 dates: Waktu yang menunjukkan kapan berita tersebut dipublikasikan atau terakhir diperbarui. Format waktu ini bisa berupa "X jam lalu" atau "X hari lalu" yang menunjukkan seberapa baru berita tersebut.
 
 🔗 links: URL lengkap yang mengarah langsung ke halaman berita di situs Lambe Turah. Link ini memungkinkan pengguna untuk membaca artikel lengkap dan memperoleh konteks lebih lanjut.
