@@ -144,6 +144,6 @@ Berikut merupakan link data visualisasi dari hasil scraping : [RPubs Visualisasi
 + [Lambe Turah Juni 2024] R(https://www.rpubs.com/sitihafsah/1196857)
   
 ## :computer: PPT
-Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat : [PPT Scrapping Kalibrr](https://github.com/rahmiandr/scrape_kalibrr/blob/main/G1501231051%20RAHMI%20ANADRA%20-%20PROJECT%20SCRAPPING.pdf)
+Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat : [PPT Scrapping Lambe turah](https://github.com/sitihafsah12/projec_scrap/blob/main/Siti%20Hafsah_G1501231060_PPT%20MDS.pdf)
 ## Pengembang
 + [Siti Hafsah](https://github.com/sitihafsah12/) (G1501231060)
