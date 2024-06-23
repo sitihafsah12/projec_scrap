@@ -141,7 +141,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk lambe turah:
 ```
 ## :chart_with_upwards_trend: Visualisasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : [RPubs Visualisasi Scrapping Lambe turah]
-+ [Lambe Turah Juni 2024] R(https://www.rpubs.com/sitihafsah/1196857)
+[Lambe Turah Juni 2024](https://www.rpubs.com/sitihafsah/1196857)
   
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan projek yang telah dibuat : [PPT Scrapping Lambe turah](https://github.com/sitihafsah12/projec_scrap/blob/main/Siti%20Hafsah_G1501231060_PPT%20MDS.pdf)
